@@ -1,1 +1,2 @@
-esto cool narval
+## key
+MY_NGC_API_KEY=YWsxdDZvMHJncW5pMTU5aTZwZmlobzBtcGg6NGU3Y2UwZGUtOWM1Mi00NDQ1LTkwN2MtZmJiNjA3MWEwZWYw
