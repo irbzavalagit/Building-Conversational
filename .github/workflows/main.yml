@@ -1,0 +1,12 @@
+name: Git
+
+on: [push]
+
+jobs:
+  first-job:
+    runs-on: mac-latest
+    steps:
+     - name: hello
+        run:|
+          echo "helo loto"
+           
