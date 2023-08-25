@@ -1,4 +1,4 @@
-name: Git
+name: Githubs
 
 on: [push]
 
@@ -6,7 +6,7 @@ jobs:
   first-job:
     runs-on: mac-latest
     steps:
-     - name: hello
-        run:|
-          echo "helo loto"
+    - name: Install and Build
+      run: |
+        echo "helo loto"
            
