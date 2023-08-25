@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   first-job:
-    runs-on: mac-latest
+    runs-on: ubuntu-latest
     steps:
     - name: Install and Build
       run: |
